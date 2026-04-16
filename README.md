@@ -22,6 +22,22 @@ This project demonstrates the ability to convert raw financial data into a \*\*h
 
 
 
+\## 🖼 Dashboard Preview
+
+
+
+<p align="center">
+
+&#x20; <img src="images/dashboard-preview.png" width="900"/>
+
+</p>
+
+
+
+\---
+
+
+
 \## 🧩 Project Overview
 
 
@@ -43,6 +59,26 @@ It empowers decision-makers to:
 \- Understand demographic patterns such as age and gender  
 
 \- Make informed, data-driven strategic decisions  
+
+
+
+\---
+
+
+
+\## 🎯 Key Highlights
+
+
+
+\- 📊 Total Billionaires Analyzed: 497  
+
+\- 🌍 Global Coverage of Wealth Distribution  
+
+\- 🏭 Industry-wise Wealth Analysis  
+
+\- 🏆 Identification of Top Billionaires  
+
+\- 🌎 Country-wise Billionaire Concentration  
 
 
 
@@ -86,7 +122,7 @@ It empowers decision-makers to:
 
 ✔ \*\*Demographic Analysis\*\* – Explore age, gender, and self-made status  
 
-✔ \*\*Interactive Dashboard\*\* – Dynamic filtering and exploration using slicers  
+✔ \*\*Interactive Dashboard\*\* – Dynamic filtering using slicers  
 
 
 
@@ -104,7 +140,7 @@ It empowers decision-makers to:
 
 \- Wealth concentration is strongest in developed economies  
 
-\- Emerging regions show potential for future growth  
+\- Emerging regions show future growth potential  
 
 
 
@@ -112,9 +148,9 @@ It empowers decision-makers to:
 
 \- Technology sector dominates billionaire creation  
 
-\- Finance and Retail are major contributing industries  
+\- Finance and Retail are major contributors  
 
-\- Traditional industries show moderate representation  
+\- Traditional industries show moderate presence  
 
 
 
@@ -124,7 +160,7 @@ It empowers decision-makers to:
 
 \- Presence of extreme high-value outliers  
 
-\- Wealth heavily concentrated among top individuals  
+\- Wealth is concentrated among top individuals  
 
 
 
@@ -134,7 +170,7 @@ It empowers decision-makers to:
 
 \- Global inequality patterns are clearly visible  
 
-\- Emerging markets present growth opportunities  
+\- Emerging markets present strong opportunities  
 
 
 
@@ -154,7 +190,7 @@ It empowers decision-makers to:
 
 \- Data Cleaning – Data Preparation  
 
-\- Dashboard Design – UI/UX Structuring  
+\- Data Visualization – Insight Generation  
 
 \- Git \& GitHub – Version Control \& Project Management  
 
@@ -212,7 +248,7 @@ This analysis helps:
 
 ✔ Identify dominant industries  
 
-✔ Support financial and economic research  
+✔ Support economic and financial research  
 
 ✔ Provide insights for investment strategies  
 
@@ -258,17 +294,13 @@ This analysis helps:
 
 \- 📊 Add time-based wealth trend analysis  
 
-\- 🌍 Perform country-wise growth comparison  
+\- 🌍 Country-wise comparative analysis  
 
-\- 👥 Advanced segmentation and clustering  
+\- 👥 Advanced segmentation  
 
 
 
 \---
-
-
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
@@ -288,21 +320,7 @@ This analysis helps:
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-\## 🖼 Dashboard Preview
-
-
-
-<p align="center">
-
-&#x20; <img src="images/dashboard-preview.png" width="900"/>
-
-</p>
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\---
 
 
 
@@ -312,13 +330,13 @@ This analysis helps:
 
 \*\*Aravind Kumar R\*\*  
 
-\*Data Analyst | Power BI Developer\*  
+\*Data Analyst | Excel Dashboard Developer\*  
 
 
 
 📊 Passionate about transforming data into actionable insights  
 
-📈 Skilled in Data Analysis, Excel, and Business Intelligence  
+📈 Skilled in Excel, Data Analysis, and Business Intelligence  
 
 🚀 Focused on solving real-world business problems using data  
 
@@ -330,13 +348,13 @@ This analysis helps:
 
 🔗 \*\*GitHub\*\*: https://github.com/Aravind-Kumar-27  
 
-🔗 \*\*LinkedIn\*\*: \[Aravind Kumar](https://linkedin.com/in/r-aravind-kumar)  
+🔗 \*\*LinkedIn\*\*: https://linkedin.com/in/r-aravind-kumar  
 
 📧 \*\*Email\*\*: r.aravindkumar27@gmail.com  
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\---
 
 
 
@@ -345,8 +363,4 @@ This analysis helps:
 
 
 Give it a ⭐ on GitHub and feel free to connect!
-
-
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
