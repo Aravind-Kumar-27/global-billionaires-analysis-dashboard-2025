@@ -1,17 +1,8 @@
-\# Test Heading
+\# 💰 Global Billionaires Analysis Dashboard 2025
 
 
 
-\## Subheading
-
-
-
-\*\*Bold Text Working\*\*
-# 💰 Global Billionaires Analysis Dashboard 2025
-
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -27,7 +18,7 @@ This project demonstrates the ability to convert raw financial data into a \*\*h
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -37,7 +28,7 @@ This project demonstrates the ability to convert raw financial data into a \*\*h
 
 <p align="center">
 
-&#x20; <img src="images/dashboard-preview.png" width="950" alt="Dashboard Preview"/>
+&#x20; <img src="images/dashboard-preview.png" width="900" alt="Dashboard Preview"/>
 
 </p>
 
@@ -51,7 +42,7 @@ This project demonstrates the ability to convert raw financial data into a \*\*h
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -79,7 +70,7 @@ It empowers decision-makers to:
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -101,7 +92,7 @@ It empowers decision-makers to:
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -123,7 +114,7 @@ It empowers decision-makers to:
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -171,7 +162,7 @@ It empowers decision-makers to:
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -193,7 +184,7 @@ It empowers decision-makers to:
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -225,7 +216,7 @@ It empowers decision-makers to:
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -249,7 +240,7 @@ This analysis enables:
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -271,7 +262,7 @@ This analysis enables:
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -291,7 +282,7 @@ This analysis enables:
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -305,17 +296,17 @@ This analysis enables:
 
 | billionaires-data.xlsx | Dataset |
 
-| README.md | Documentation |
+| README.md | Project documentation |
 
 | images/dashboard-preview.png | Dashboard preview |
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
-\## 👨‍💻 Author \& Links
+\## 👨‍💻 Author
 
 
 
@@ -345,7 +336,7 @@ This analysis enables:
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\---
 
 
 
@@ -354,8 +345,4 @@ This analysis enables:
 
 
 Give it a ⭐ on GitHub and feel free to connect!
-
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
